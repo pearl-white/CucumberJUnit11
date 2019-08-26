@@ -13,8 +13,6 @@ public class CustomResponse {
 
     private List<Teacher> teachers;
 
-
-// Checkout as master 
     // get mapping single student
     private int batch;
     private String birthDate;
